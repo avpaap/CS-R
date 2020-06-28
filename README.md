@@ -32,3 +32,6 @@ feature_summary_complete.csv was manually created using two DIAS description fil
 ## Results <a name="results"></a>
 Clusters of relevance of future customers and positive responders to the mail-order campaign was identified successfuly.
 For details of this projects please go through the attached report.
+
+## Author
+Ambresh Patil
